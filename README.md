@@ -1,9 +1,5 @@
-# fx-falsework
+# 
 基于javafx、spring boot 开发的客户端与服务端系统开发脚手架。本项目目的是帮助快速构建javafx系统，前后端分离，客户端UI提供明暗两种主题，与服务端通信用的是OpenFeign。服务端是标准的spring-boot工程。
-
-# qq交流群：114697782
-
-# JavaFX开发者中文社区，您可以通过以下方式互相学习请教。
 
 网址：https://openjfx.cn
 
